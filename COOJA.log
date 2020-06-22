@@ -1,0 +1,723 @@
+[12:58:10 - main] [Cooja.java:3181] [WARN] - JAVA_HOME environment variable not set, Cooja motes may not compile
+[12:58:10 - AWT-EventQueue-0] [Cooja.java:2865] [INFO] - External tools default settings: /external_tools_linux_64.config
+[12:58:10 - AWT-EventQueue-0] [Cooja.java:2895] [INFO] - External tools user settings: /home/ashwin/.cooja.user.properties
+[12:58:18 - Thread-0] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[12:58:18 - Thread-0] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[12:58:19 - Thread-0] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[12:58:19 - Thread-0] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[12:58:19 - Thread-0] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[12:58:19 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[12:58:20 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[12:58:20 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[12:58:20 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[12:58:20 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[12:58:20 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[12:58:20 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[12:58:20 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[12:58:20 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[12:58:20 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[12:58:20 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[12:58:20 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[12:58:20 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[12:58:20 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[12:58:20 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[12:58:20 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[12:58:21 - Thread-0] [Visualizer.java:256] [INFO] - Registered external visualizer: org.contikios.cooja.plugins.skins.DGRMVisualizerSkin
+[12:58:21 - Thread-0] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[12:58:21 - Thread-1] [SerialPortDiscoveryServer.java:20] [INFO] - Creating server for serial2pty serial port discovery. Listening on port 6100
+[12:59:35 - Thread-4] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580212775796
+[13:05:13 - Thread-4] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580213113261	Duration: 337465 ms	Simulated time 181606 ms	Ratio 0.5381476597573082
+[13:05:35 - Thread-5] [AbstractRadioMedium.java:198] [FATAL] - Connection source turned off radio: org.contikios.cooja.mspmote.interfaces.Msp802154Radio@16ea50ad
+[13:05:35 - Thread-5] [AbstractRadioMedium.java:198] [FATAL] - Connection source turned off radio: org.contikios.cooja.mspmote.interfaces.Msp802154Radio@598ed97b
+[13:05:36 - Thread-5] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[13:05:36 - Thread-5] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[13:05:36 - Thread-5] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[13:05:36 - Thread-5] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[13:05:37 - Thread-5] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[13:05:37 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[13:05:37 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[13:05:37 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[13:05:37 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[13:05:37 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[13:05:37 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[13:05:37 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[13:05:37 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[13:05:37 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[13:05:38 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[13:05:38 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[13:05:38 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[13:05:38 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[13:05:38 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[13:05:38 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[13:05:38 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[13:05:38 - Thread-5] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[13:05:40 - Thread-8] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580213140609
+[13:06:03 - Thread-3] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[13:10:55 - Thread-8] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580213455835	Duration: 315226 ms	Simulated time 180323 ms	Ratio 0.5720435497071942
+[14:39:55 - Thread-7] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[14:39:56 - Thread-9] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[14:39:56 - Thread-9] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[14:39:57 - Thread-9] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[14:39:57 - Thread-9] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[14:39:57 - Thread-9] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[14:39:57 - Thread-9] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:39:58 - Thread-9] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:39:58 - Thread-9] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:39:58 - Thread-9] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:39:58 - Thread-9] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:39:58 - Thread-9] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:39:58 - Thread-9] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:39:58 - Thread-9] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:39:58 - Thread-9] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:39:58 - Thread-9] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:39:58 - Thread-9] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:39:58 - Thread-9] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:39:58 - Thread-9] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:39:58 - Thread-9] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:39:58 - Thread-9] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:39:58 - Thread-9] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[14:39:59 - Thread-9] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[14:40:56 - Thread-11] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[14:40:56 - Thread-12] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[14:40:56 - Thread-12] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[14:40:56 - Thread-12] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[14:40:56 - Thread-12] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[14:40:56 - Thread-12] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[14:40:57 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:40:57 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:40:57 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:40:57 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:40:57 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:40:57 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:40:57 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:40:57 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:40:57 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:40:57 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:40:57 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:40:57 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:40:57 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:40:58 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:40:58 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[14:40:58 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[14:40:58 - Thread-12] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[18:17:26 - Thread-14] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[18:17:26 - Thread-15] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[18:17:26 - Thread-15] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:17:27 - Thread-15] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:17:27 - Thread-15] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[18:17:27 - Thread-15] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:17:27 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:17:27 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:17:27 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:17:27 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:17:28 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:17:28 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:17:28 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:17:28 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:17:28 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:17:28 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:17:28 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:17:28 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:17:28 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:17:28 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:17:28 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:17:28 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[18:17:29 - Thread-15] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[18:17:34 - Thread-18] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580231854964
+[18:22:32 - Thread-17] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[18:22:32 - Thread-18] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580232152839	Duration: 297875 ms	Simulated time 288562 ms	Ratio 0.9687352077213597
+[18:22:33 - Thread-19] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[18:22:33 - Thread-19] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:22:33 - Thread-19] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:22:33 - Thread-19] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[18:22:34 - Thread-19] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:22:34 - Thread-19] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:22:34 - Thread-19] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:22:34 - Thread-19] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:22:34 - Thread-19] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:22:34 - Thread-19] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:22:34 - Thread-19] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:22:35 - Thread-19] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:22:35 - Thread-19] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:22:35 - Thread-19] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:22:35 - Thread-19] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:22:35 - Thread-19] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:22:35 - Thread-19] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:22:35 - Thread-19] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:22:35 - Thread-19] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:22:35 - Thread-19] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:22:35 - Thread-19] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[18:22:35 - Thread-19] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[18:22:36 - Thread-22] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580232156392
+[18:24:20 - Thread-21] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[18:24:20 - Thread-23] [AbstractRadioMedium.java:198] [FATAL] - Connection source turned off radio: org.contikios.cooja.mspmote.interfaces.Msp802154Radio@226306bd
+[18:24:20 - Thread-22] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580232260289	Duration: 103897 ms	Simulated time 90199 ms	Ratio 0.8681495312710543
+[18:24:20 - Thread-23] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[18:24:20 - Thread-23] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:24:20 - Thread-23] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:24:21 - Thread-23] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[18:24:21 - Thread-23] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:24:21 - Thread-23] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:21 - Thread-23] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:21 - Thread-23] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:21 - Thread-23] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:22 - Thread-23] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:22 - Thread-23] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:22 - Thread-23] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:22 - Thread-23] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:22 - Thread-23] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:22 - Thread-23] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:22 - Thread-23] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:22 - Thread-23] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:22 - Thread-23] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:22 - Thread-23] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:22 - Thread-23] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:22 - Thread-23] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[18:24:23 - Thread-23] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[18:24:23 - Thread-26] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580232263648
+[18:24:53 - Thread-25] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[18:24:53 - Thread-26] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580232293403	Duration: 29755 ms	Simulated time 23221 ms	Ratio 0.7804066543438077
+[18:24:53 - Thread-27] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[18:24:53 - Thread-27] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:24:53 - Thread-27] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:24:54 - Thread-27] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[18:24:54 - Thread-27] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:24:54 - Thread-27] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:54 - Thread-27] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:54 - Thread-27] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:54 - Thread-27] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:54 - Thread-27] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:54 - Thread-27] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:54 - Thread-27] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:54 - Thread-27] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:54 - Thread-27] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:55 - Thread-27] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:55 - Thread-27] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:55 - Thread-27] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:55 - Thread-27] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:55 - Thread-27] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:55 - Thread-27] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:24:55 - Thread-27] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[18:24:55 - Thread-27] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[18:24:56 - Thread-30] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580232296197
+[18:25:02 - Thread-30] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580232302582	Duration: 6385 ms	Simulated time 6035 ms	Ratio 0.9451840250587314
+[18:25:43 - Thread-29] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[18:25:43 - Thread-31] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[18:25:43 - Thread-31] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:25:43 - Thread-31] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:25:43 - Thread-31] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[18:25:43 - Thread-31] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:25:44 - Thread-31] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:25:44 - Thread-31] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:25:44 - Thread-31] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:25:44 - Thread-31] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:25:44 - Thread-31] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:25:44 - Thread-31] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:25:44 - Thread-31] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:25:44 - Thread-31] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:25:44 - Thread-31] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:25:44 - Thread-31] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:25:44 - Thread-31] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:25:44 - Thread-31] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:25:44 - Thread-31] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:25:44 - Thread-31] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:25:45 - Thread-31] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:25:45 - Thread-31] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[18:25:45 - Thread-31] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[18:27:01 - Thread-33] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[18:27:01 - Thread-34] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[18:27:01 - Thread-34] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:27:01 - Thread-34] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:27:01 - Thread-34] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[18:27:01 - Thread-34] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:27:02 - Thread-34] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:02 - Thread-34] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:02 - Thread-34] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:02 - Thread-34] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:02 - Thread-34] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:02 - Thread-34] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:02 - Thread-34] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:02 - Thread-34] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:02 - Thread-34] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:02 - Thread-34] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:02 - Thread-34] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:02 - Thread-34] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:02 - Thread-34] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:03 - Thread-34] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:03 - Thread-34] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:03 - Thread-34] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[18:27:03 - Thread-34] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[18:27:12 - Thread-37] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580232432795
+[18:27:17 - Thread-37] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580232437079	Duration: 4284 ms	Simulated time 4221 ms	Ratio 0.9852941176470589
+[18:27:29 - Thread-36] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[18:27:29 - Thread-38] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[18:27:29 - Thread-38] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:27:29 - Thread-38] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:27:30 - Thread-38] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[18:27:30 - Thread-38] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:27:30 - Thread-38] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:30 - Thread-38] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:30 - Thread-38] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:30 - Thread-38] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:30 - Thread-38] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:31 - Thread-38] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:31 - Thread-38] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:31 - Thread-38] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:31 - Thread-38] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:31 - Thread-38] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:31 - Thread-38] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:31 - Thread-38] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:31 - Thread-38] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:31 - Thread-38] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:31 - Thread-38] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:27:31 - Thread-38] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[18:27:31 - Thread-38] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[18:27:36 - Thread-41] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580232456939
+[18:27:44 - Thread-41] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580232464619	Duration: 7680 ms	Simulated time 7623 ms	Ratio 0.992578125
+[18:27:59 - Thread-40] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[18:27:59 - Thread-42] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[18:27:59 - Thread-42] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:28:00 - Thread-42] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:28:00 - Thread-42] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[18:28:00 - Thread-42] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:28:00 - Thread-42] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:28:01 - Thread-42] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:28:01 - Thread-42] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:28:01 - Thread-42] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:28:01 - Thread-42] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:28:01 - Thread-42] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:28:01 - Thread-42] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:28:01 - Thread-42] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:28:01 - Thread-42] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:28:01 - Thread-42] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:28:01 - Thread-42] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:28:01 - Thread-42] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:28:01 - Thread-42] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:28:01 - Thread-42] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:28:01 - Thread-42] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:28:01 - Thread-42] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[18:28:02 - Thread-42] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[18:28:05 - Thread-45] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580232485990
+[18:28:11 - Thread-45] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580232491445	Duration: 5455 ms	Simulated time 5178 ms	Ratio 0.9492208982584784
+[18:30:04 - Thread-44] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[18:30:04 - Thread-46] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[18:30:04 - Thread-46] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:30:04 - Thread-46] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:30:04 - Thread-46] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[18:30:05 - Thread-46] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:30:05 - Thread-46] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:30:05 - Thread-46] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:30:05 - Thread-46] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:30:05 - Thread-46] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:30:05 - Thread-46] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:30:05 - Thread-46] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:30:05 - Thread-46] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:30:05 - Thread-46] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:30:05 - Thread-46] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:30:05 - Thread-46] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:30:05 - Thread-46] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:30:05 - Thread-46] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:30:06 - Thread-46] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:30:06 - Thread-46] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:30:06 - Thread-46] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:30:06 - Thread-46] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[18:30:06 - Thread-46] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[18:30:12 - Thread-49] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580232612234
+[18:30:23 - Thread-49] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580232623217	Duration: 10983 ms	Simulated time 10848 ms	Ratio 0.9877082764272057
+[18:32:58 - Thread-48] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[18:32:58 - Thread-50] [AbstractRadioMedium.java:198] [FATAL] - Connection source turned off radio: org.contikios.cooja.mspmote.interfaces.Msp802154Radio@6d3377c1
+[18:32:58 - Thread-50] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[18:32:58 - Thread-50] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:32:58 - Thread-50] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:32:59 - Thread-50] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[18:32:59 - Thread-50] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:32:59 - Thread-50] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:32:59 - Thread-50] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:32:59 - Thread-50] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:32:59 - Thread-50] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:32:59 - Thread-50] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:33:00 - Thread-50] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:33:00 - Thread-50] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:33:00 - Thread-50] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:33:00 - Thread-50] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:33:00 - Thread-50] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:33:00 - Thread-50] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:33:00 - Thread-50] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:33:00 - Thread-50] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:33:00 - Thread-50] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:33:00 - Thread-50] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:33:00 - Thread-50] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[18:33:00 - Thread-50] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[18:33:04 - Thread-53] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580232784781
+[18:33:13 - Thread-53] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580232793116	Duration: 8335 ms	Simulated time 8223 ms	Ratio 0.9865626874625075
+[18:33:31 - Thread-52] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[18:33:31 - Thread-54] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[18:33:31 - Thread-54] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:33:31 - Thread-54] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:33:31 - Thread-54] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[18:33:31 - Thread-54] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:33:32 - Thread-54] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:33:32 - Thread-54] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:33:32 - Thread-54] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:33:32 - Thread-54] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:33:32 - Thread-54] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:33:32 - Thread-54] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:33:32 - Thread-54] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:33:32 - Thread-54] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:33:32 - Thread-54] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:33:32 - Thread-54] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:33:32 - Thread-54] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:33:32 - Thread-54] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:33:32 - Thread-54] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:33:32 - Thread-54] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:33:33 - Thread-54] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:33:33 - Thread-54] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[18:33:33 - Thread-54] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[18:33:37 - Thread-57] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580232817154
+[18:33:42 - Thread-57] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580232822743	Duration: 5589 ms	Simulated time 5388 ms	Ratio 0.9640365002683843
+[18:34:12 - Thread-56] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[18:34:12 - Thread-58] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[18:34:12 - Thread-58] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:34:12 - Thread-58] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:34:12 - Thread-58] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[18:34:13 - Thread-58] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:34:13 - Thread-58] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:34:13 - Thread-58] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:34:13 - Thread-58] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:34:13 - Thread-58] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:34:13 - Thread-58] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:34:13 - Thread-58] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:34:13 - Thread-58] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:34:13 - Thread-58] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:34:14 - Thread-58] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:34:14 - Thread-58] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:34:14 - Thread-58] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:34:14 - Thread-58] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:34:14 - Thread-58] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:34:14 - Thread-58] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:34:14 - Thread-58] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:34:14 - Thread-58] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[18:34:14 - Thread-58] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[18:34:17 - Thread-61] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580232857402
+[18:34:28 - Thread-61] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580232868385	Duration: 10983 ms	Simulated time 10750 ms	Ratio 0.9787853956113994
+[18:35:26 - Thread-60] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[18:35:26 - Thread-62] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[18:35:26 - Thread-62] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:35:26 - Thread-62] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:35:27 - Thread-62] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[18:35:27 - Thread-62] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:35:27 - Thread-62] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:35:27 - Thread-62] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:35:27 - Thread-62] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:35:27 - Thread-62] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:35:27 - Thread-62] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:35:28 - Thread-62] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:35:28 - Thread-62] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:35:28 - Thread-62] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:35:28 - Thread-62] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:35:28 - Thread-62] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:35:28 - Thread-62] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:35:28 - Thread-62] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:35:28 - Thread-62] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:35:28 - Thread-62] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:35:28 - Thread-62] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:35:28 - Thread-62] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[18:35:28 - Thread-62] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[18:35:31 - Thread-65] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580232931393
+[18:35:38 - Thread-65] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580232938021	Duration: 6628 ms	Simulated time 6512 ms	Ratio 0.9824984912492456
+[18:37:31 - Thread-64] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[18:37:31 - Thread-66] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[18:37:31 - Thread-66] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:37:31 - Thread-66] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:37:31 - Thread-66] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[18:37:32 - Thread-66] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:37:32 - Thread-66] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:37:32 - Thread-66] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:37:32 - Thread-66] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:37:32 - Thread-66] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:37:32 - Thread-66] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:37:32 - Thread-66] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:37:32 - Thread-66] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:37:32 - Thread-66] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:37:32 - Thread-66] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:37:32 - Thread-66] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:37:33 - Thread-66] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:37:33 - Thread-66] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:37:33 - Thread-66] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:37:33 - Thread-66] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:37:33 - Thread-66] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:37:33 - Thread-66] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[18:37:33 - Thread-66] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[18:37:37 - Thread-69] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580233057906
+[18:37:47 - Thread-69] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580233067817	Duration: 9911 ms	Simulated time 9748 ms	Ratio 0.983553627282817
+[18:38:01 - Thread-68] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[18:38:01 - Thread-70] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[18:38:01 - Thread-70] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:38:01 - Thread-70] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:38:01 - Thread-70] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[18:38:02 - Thread-70] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:38:02 - Thread-70] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:38:02 - Thread-70] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:38:02 - Thread-70] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:38:02 - Thread-70] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:38:02 - Thread-70] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:38:02 - Thread-70] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:38:02 - Thread-70] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:38:02 - Thread-70] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:38:02 - Thread-70] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:38:02 - Thread-70] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:38:02 - Thread-70] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:38:02 - Thread-70] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:38:03 - Thread-70] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:38:03 - Thread-70] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:38:03 - Thread-70] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:38:03 - Thread-70] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[18:38:03 - Thread-70] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[18:38:06 - Thread-73] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580233086050
+[18:38:11 - Thread-73] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580233091750	Duration: 5700 ms	Simulated time 5565 ms	Ratio 0.9763157894736842
+[18:38:59 - Thread-72] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[18:38:59 - Thread-74] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[18:38:59 - Thread-74] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:38:59 - Thread-74] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:38:59 - Thread-74] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[18:39:00 - Thread-74] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:39:00 - Thread-74] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:39:00 - Thread-74] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:39:00 - Thread-74] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:39:00 - Thread-74] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:39:00 - Thread-74] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:39:00 - Thread-74] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:39:00 - Thread-74] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:39:00 - Thread-74] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:39:01 - Thread-74] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:39:01 - Thread-74] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:39:01 - Thread-74] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:39:01 - Thread-74] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:39:01 - Thread-74] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:39:01 - Thread-74] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:39:01 - Thread-74] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:39:01 - Thread-74] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[18:39:01 - Thread-74] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[18:39:06 - Thread-77] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580233146063
+[18:39:26 - Thread-77] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580233166155	Duration: 20092 ms	Simulated time 17572 ms	Ratio 0.8745769460481784
+[18:40:16 - Thread-76] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[18:40:16 - Thread-78] [AbstractRadioMedium.java:198] [FATAL] - Connection source turned off radio: org.contikios.cooja.mspmote.interfaces.Msp802154Radio@37904ae7
+[18:40:17 - Thread-78] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[18:40:17 - Thread-78] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:40:17 - Thread-78] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:40:17 - Thread-78] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[18:40:17 - Thread-78] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:40:17 - Thread-78] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:40:18 - Thread-78] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:40:18 - Thread-78] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:40:18 - Thread-78] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:40:18 - Thread-78] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:40:18 - Thread-78] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:40:18 - Thread-78] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:40:18 - Thread-78] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:40:18 - Thread-78] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:40:18 - Thread-78] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:40:18 - Thread-78] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:40:18 - Thread-78] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:40:19 - Thread-78] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:40:19 - Thread-78] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:40:19 - Thread-78] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:40:19 - Thread-78] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[18:40:19 - Thread-78] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[18:40:23 - Thread-81] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580233223567
+[18:41:20 - Thread-81] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580233280193	Duration: 56626 ms	Simulated time 41361 ms	Ratio 0.7304241867693286
+[18:41:43 - AWT-EventQueue-0] [AbstractRadioMedium.java:198] [FATAL] - Connection source turned off radio: org.contikios.cooja.mspmote.interfaces.Msp802154Radio@51e70a4b
+[18:41:43 - Thread-80] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[18:42:02 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:42:02 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:42:02 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:42:02 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:42:02 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:42:02 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:42:02 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:42:02 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:42:41 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:42:41 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:42:41 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:42:41 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:42:41 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:42:41 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:42:41 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:42:41 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:43:28 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:43:28 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:43:28 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:43:28 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:43:28 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:43:29 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:43:29 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:43:29 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:43:55 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[18:44:32 - Thread-82] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580233472395
+[18:44:33 - Thread-82] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580233473797	Duration: 1403 ms	Simulated time 42407 ms	Ratio 30.225944404846757
+[18:44:56 - Thread-83] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580233496613
+[18:45:01 - Thread-83] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580233501967	Duration: 5354 ms	Simulated time 47697 ms	Ratio 8.908666417631677
+[18:45:54 - AWT-EventQueue-0] [Cooja.java:3497] [INFO] - Saved to file: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/project_simulation.csc
+[18:46:00 - Thread-87] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580233560107
+[18:46:26 - Thread-87] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580233586669	Duration: 26562 ms	Simulated time 70807 ms	Ratio 2.665725472479482
+[18:46:36 - Thread-86] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[18:46:36 - Thread-88] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[18:46:36 - Thread-88] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:46:36 - Thread-88] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:46:37 - Thread-88] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[18:46:37 - Thread-88] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[18:46:37 - Thread-88] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:46:37 - Thread-88] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:46:37 - Thread-88] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:46:38 - Thread-88] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:46:38 - Thread-88] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:46:38 - Thread-88] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:46:38 - Thread-88] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:46:38 - Thread-88] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[18:46:38 - Thread-88] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[18:46:38 - Thread-88] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[18:52:10 - Thread-91] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580233930603
+[19:07:26 - Thread-90] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[19:07:26 - Thread-91] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580234846327	Duration: 915724 ms	Simulated time 910357 ms	Ratio 0.9941390637353613
+[19:07:26 - Thread-92] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[19:07:26 - Thread-92] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[19:07:26 - Thread-92] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[19:07:27 - Thread-92] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[19:07:27 - Thread-92] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[19:07:27 - Thread-92] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:07:27 - Thread-92] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:07:27 - Thread-92] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:07:27 - Thread-92] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:07:27 - Thread-92] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:07:28 - Thread-92] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:07:28 - Thread-92] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:07:28 - Thread-92] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:07:28 - Thread-92] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[19:07:28 - Thread-92] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[19:07:28 - Thread-95] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580234848943
+[19:13:45 - Thread-94] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[19:13:45 - Thread-95] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580235225635	Duration: 376692 ms	Simulated time 373924 ms	Ratio 0.9926518216473936
+[19:13:45 - Thread-96] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[19:13:45 - Thread-96] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[19:13:46 - Thread-96] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[19:13:46 - Thread-96] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[19:13:46 - Thread-96] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[19:13:46 - Thread-96] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:13:47 - Thread-96] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:13:47 - Thread-96] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:13:47 - Thread-96] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:13:47 - Thread-96] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:13:47 - Thread-96] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:13:47 - Thread-96] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:13:47 - Thread-96] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:13:47 - Thread-96] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[19:13:47 - Thread-96] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[19:13:48 - Thread-99] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580235228252
+[19:23:53 - Thread-99] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580235833958	Duration: 605706 ms	Simulated time 599806 ms	Ratio 0.9902593007168494
+[19:23:56 - Thread-100] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[19:23:56 - Thread-100] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[19:23:56 - Thread-100] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[19:23:56 - Thread-100] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[19:23:57 - Thread-100] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[19:23:57 - Thread-100] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:23:57 - Thread-100] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:23:57 - Thread-100] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:23:57 - Thread-100] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:23:57 - Thread-100] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:23:57 - Thread-100] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:23:57 - Thread-100] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:23:57 - Thread-100] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:23:57 - Thread-100] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[19:23:58 - Thread-100] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[19:24:04 - Thread-98] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[19:24:26 - Thread-103] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580235866480
+[19:31:42 - Thread-102] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[19:31:42 - Thread-103] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580236302624	Duration: 436144 ms	Simulated time 432061 ms	Ratio 0.9906384130012106
+[19:31:42 - Thread-104] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[19:31:42 - Thread-104] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[19:31:43 - Thread-104] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[19:31:43 - Thread-104] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[19:31:43 - Thread-104] [SkyMoteType.java:172] [FATAL] - >>   CC        /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/platform/sky/./contiki-sky-main.c
+[19:31:43 - Thread-104] [SkyMoteType.java:172] [FATAL] - >>   LD        sensor-node.sky
+[19:31:43 - Thread-104] [SkyMoteType.java:172] [FATAL] - >> /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/mspgcc-4.7.3/bin/../lib/gcc/msp430/4.7.3/../../../../msp430/lib/mmpy-16/libc.a(time.o): In function `time':
+[19:31:43 - Thread-104] [SkyMoteType.java:172] [FATAL] - >> /home/prabha/install_msp/tmp/msp430-libc-20120716/src/./stdtime/time.c:40: undefined reference to `clock_gettime'
+[19:31:43 - Thread-104] [SkyMoteType.java:172] [FATAL] - >> collect2: error: ld returned 1 exit status
+[19:31:43 - Thread-104] [SkyMoteType.java:172] [FATAL] - >> make[1]: *** [sensor-node.sky] Error 1
+[19:31:43 - Thread-104] [SkyMoteType.java:172] [FATAL] - >> /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/Makefile.include:280: recipe for target 'sensor-node.sky' failed
+[19:31:43 - Thread-104] [SkyMoteType.java:172] [FATAL] - >> rm sensor-node.co obj_sky/contiki-sky-main.o
+[19:31:43 - Thread-104] [SkyMoteType.java:172] [FATAL] - >> make[1]: Leaving directory '/home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes'
+[19:31:43 - Thread-104] [SkyMoteType.java:172] [FATAL] - >> Process returned error code 2
+[19:31:43 - Thread-104] [SkyMoteType.java:175] [FATAL] - Compilation error: Bad return value
+[19:37:02 - Thread-106] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[19:37:02 - Thread-106] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[19:37:02 - Thread-106] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[19:37:02 - Thread-106] [Cooja.java:4267] [WARN] - Replaced [CONTIKI_DIR]/project_nes/sensor-node.sky with /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky (default: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki), but could not find it. This does not have to be an error, as the file might be created later.
+[19:37:02 - Thread-106] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[19:37:02 - Thread-106] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[19:37:03 - Thread-106] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:37:03 - Thread-106] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:37:03 - Thread-106] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:37:03 - Thread-106] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:37:03 - Thread-106] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:37:03 - Thread-106] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:37:03 - Thread-106] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:37:03 - Thread-106] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:37:03 - Thread-106] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[19:37:04 - Thread-106] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[19:37:18 - Thread-109] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580236638278
+[19:38:06 - Thread-109] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580236686817	Duration: 48539 ms	Simulated time 47498 ms	Ratio 0.9785533282515091
+[19:38:07 - Thread-108] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[19:38:07 - Thread-110] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[19:38:07 - Thread-110] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[19:38:08 - Thread-110] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[19:38:08 - Thread-110] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[19:38:08 - Thread-110] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[19:38:08 - Thread-110] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:38:08 - Thread-110] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:38:09 - Thread-110] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:38:09 - Thread-110] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:38:09 - Thread-110] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:38:09 - Thread-110] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:38:09 - Thread-110] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:38:09 - Thread-110] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:38:09 - Thread-110] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[19:38:09 - Thread-110] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[19:38:56 - Thread-113] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580236736264
+[19:40:26 - Thread-113] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580236826698	Duration: 90434 ms	Simulated time 88816 ms	Ratio 0.9821084990158568
+[19:40:26 - Thread-114] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[19:40:26 - Thread-114] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[19:40:27 - Thread-114] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[19:40:27 - Thread-114] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[19:40:27 - Thread-114] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[19:40:27 - Thread-114] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:40:27 - Thread-114] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:40:28 - Thread-114] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:40:28 - Thread-114] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:40:28 - Thread-114] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:40:28 - Thread-114] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:40:28 - Thread-114] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:40:28 - Thread-114] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:40:28 - Thread-114] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[19:40:28 - Thread-114] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[19:40:29 - Thread-117] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580236829152
+[19:40:46 - Thread-117] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580236846381	Duration: 17229 ms	Simulated time 16665 ms	Ratio 0.967264495908062
+[19:41:46 - Thread-112] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[19:41:52 - Thread-116] [Serial2Pty.java:193] [FATAL] - Error while reading from in pipe: java.io.IOException: Input/output error
+[19:41:52 - Thread-118] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[19:41:52 - Thread-118] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[19:41:52 - Thread-118] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[19:41:53 - Thread-118] [CompileContiki.java:140] [INFO] - > make sensor-node.sky TARGET=sky 
+[19:41:53 - Thread-118] [CompileContiki.java:140] [INFO] - > make sink-node.sky TARGET=sky 
+[19:41:53 - Thread-118] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:41:53 - Thread-118] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:41:53 - Thread-118] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:41:53 - Thread-118] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:41:53 - Thread-118] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:41:54 - Thread-118] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:41:54 - Thread-118] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:41:54 - Thread-118] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sensor-node.sky
+[19:41:54 - Thread-118] [MspMote.java:235] [INFO] - Loading firmware from: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/sink-node.sky
+[19:41:54 - Thread-118] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[19:43:48 - Thread-121] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1580237028111
+[19:45:15 - Thread-121] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1580237115056	Duration: 86945 ms	Simulated time 85554 ms	Ratio 0.9840013801828742
+[19:45:24 - AWT-EventQueue-0] [Cooja.java:3497] [INFO] - Saved to file: /home/ashwin/Documents/MSc/6th-Sem/Networked_Embedded_Systems/Lab/Project_2/2018w/contiki/project_nes/project_simulation.csc
